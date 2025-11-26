@@ -196,9 +196,9 @@ A documentação técnica completa está disponível no arquivo `DOCUMENTACAO_TE
 
 Desenvolvido como projeto acadêmico para o curso de graduação em Banco de Dados II na Faculdade Senac Maringá.
 
-- 📧 Email: [seu-email@exemplo.com]
-- 💼 LinkedIn: [seu-linkedin]
-- 🌐 GitHub: [@seu-usuario]
+- 📧 Email: [claudemirdias84@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/claudemir-dias-039a701bb/]
+- 🌐 GitHub: [Claudemir84]
 
 ## 👩‍🏫 Orientação
 
