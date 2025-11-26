@@ -107,7 +107,7 @@ O projeto inclui:
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/sistema-gestao-biblioteca.git
+git clone https://github.com/Claudemir84/Banco-de-Dados-ll.git
 cd sistema-gestao-biblioteca
 ```
 
